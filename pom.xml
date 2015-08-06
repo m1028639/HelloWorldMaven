@@ -266,7 +266,7 @@
 											<file>${project.basedir}/src/main/docker/start_up.sh</file>
 										</artifact>
 									</artifacts>
-									<nameAndTag>preetick/mthello:${project.version}</nameAndTag>
+									<nameAndTag>sriprasanna25/mthello:${project.version}</nameAndTag>
 									<!-- <registry>registry.hub.docker.com</registry> -->
 									<push>true</push>
 								</image>
