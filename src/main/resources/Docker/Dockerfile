@@ -1,5 +1,5 @@
  
-FROM preetick/jvcatenv
+FROM preetick/jvcatenv:v1
 
 MAINTAINER M1017042
 
